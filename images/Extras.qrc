@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Highscores.jpg</file>
+        <file>howToPlay.jpg</file>
+    </qresource>
+</RCC>

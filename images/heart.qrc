@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/heart"/>
+    <qresource prefix="/"/>
+    <qresource prefix="/nice-heart"/>
+</RCC>

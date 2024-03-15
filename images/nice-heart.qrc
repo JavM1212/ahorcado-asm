@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/nice-heart">
+        <file>nice-heart-v2.jpeg</file>
+        <file>bad-heart.jpeg</file>
+    </qresource>
+</RCC>

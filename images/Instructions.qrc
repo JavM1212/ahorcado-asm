@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/HowToPlay">
+        <file>images/howToPlay.jpg</file>
+    </qresource>
+</RCC>

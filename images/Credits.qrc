@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Credits.jpg</file>
+        <file>XButton.jpg</file>
+        <file>Highscores.jpg</file>
+        <file>howToPlay.jpg</file>
+    </qresource>
+</RCC>

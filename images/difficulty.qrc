@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/difficulty">
+        <file>difficulty.jpeg</file>
+    </qresource>
+</RCC>
